@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<defs><radialGradient id="bg" cx=".5" cy=".5" r=".8"><stop offset="0" stop-color="#5e1224"/><stop offset="1" stop-color="#14060a"/></radialGradient>
+<radialGradient id="flesh" cx=".4" cy=".35" r=".9"><stop offset="0" stop-color="#ffd25a"/><stop offset="1" stop-color="#ee9420"/></radialGradient>
+<clipPath id="cl"><ellipse rx="230" ry="300"/></clipPath></defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<g transform="translate(400,410) rotate(-22)">
+<ellipse rx="252" ry="322" fill="#000" opacity=".35" transform="translate(12,16)"/>
+<ellipse rx="252" ry="322" fill="#d4622a"/>
+<ellipse rx="240" ry="310" fill="#e8a13a"/>
+<ellipse rx="230" ry="300" fill="url(#flesh)"/>
+<g clip-path="url(#cl)"><g transform="rotate(45)" stroke="#a8560f" stroke-opacity=".55" stroke-width="3"><line x1="-260" y1="-304" x2="260" y2="-304"/><line x1="-304" y1="-260" x2="-304" y2="260"/><line x1="-260" y1="-266" x2="260" y2="-266"/><line x1="-266" y1="-260" x2="-266" y2="260"/><line x1="-260" y1="-228" x2="260" y2="-228"/><line x1="-228" y1="-260" x2="-228" y2="260"/><line x1="-260" y1="-190" x2="260" y2="-190"/><line x1="-190" y1="-260" x2="-190" y2="260"/><line x1="-260" y1="-152" x2="260" y2="-152"/><line x1="-152" y1="-260" x2="-152" y2="260"/><line x1="-260" y1="-114" x2="260" y2="-114"/><line x1="-114" y1="-260" x2="-114" y2="260"/><line x1="-260" y1="-76" x2="260" y2="-76"/><line x1="-76" y1="-260" x2="-76" y2="260"/><line x1="-260" y1="-38" x2="260" y2="-38"/><line x1="-38" y1="-260" x2="-38" y2="260"/><line x1="-260" y1="0" x2="260" y2="0"/><line x1="0" y1="-260" x2="0" y2="260"/><line x1="-260" y1="38" x2="260" y2="38"/><line x1="38" y1="-260" x2="38" y2="260"/><line x1="-260" y1="76" x2="260" y2="76"/><line x1="76" y1="-260" x2="76" y2="260"/><line x1="-260" y1="114" x2="260" y2="114"/><line x1="114" y1="-260" x2="114" y2="260"/><line x1="-260" y1="152" x2="260" y2="152"/><line x1="152" y1="-260" x2="152" y2="260"/><line x1="-260" y1="190" x2="260" y2="190"/><line x1="190" y1="-260" x2="190" y2="260"/><line x1="-260" y1="228" x2="260" y2="228"/><line x1="228" y1="-260" x2="228" y2="260"/><line x1="-260" y1="266" x2="260" y2="266"/><line x1="266" y1="-260" x2="266" y2="260"/><line x1="-260" y1="304" x2="260" y2="304"/><line x1="304" y1="-260" x2="304" y2="260"/></g></g>
+<ellipse rx="230" ry="300" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="3"/>
+</g>
+</svg>
