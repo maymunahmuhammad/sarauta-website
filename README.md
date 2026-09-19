@@ -1,7 +1,7 @@
 # Sarauta: Cold-pressed Juice and Fura
 
-**Live website:** [ADD YOUR VERCEL LINK HERE](https://your-project.vercel.app)
-**GitHub repository:** [ADD YOUR REPOSITORY LINK HERE](https://github.com/your-username/sarauta-website)
+**Live website:** [ADD YOUR VERCEL LINK HERE](https://sarauta-website.vercel.app)
+**GitHub repository:** [ADD YOUR REPOSITORY LINK HERE](https://github.com/maymunahmuhammad/sarauta-website)
 
 ## Project description
 
