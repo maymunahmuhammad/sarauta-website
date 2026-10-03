@@ -268,7 +268,28 @@
       </div>
     </div>
   </footer>
-
+<!-- AI Support Chat Widget -->
+<script>
+  (function() {
+    var script = document.createElement('script');
+    script.src = 'https://amina.saypeace.ng/widget/widget.min.js';
+    script.onload = function() {
+      new AISupportWidget({
+        agentId: 'e42cabb3-314d-4e99-8884-211f9abad0fe',
+        apiUrl: 'https://amina-backend.saypeace.ng',
+        wsUrl: 'wss://amina-backend.saypeace.ng',
+        agentName: "Maymunah",
+        position: 'bottom-right',
+        primaryColor: '#2B3FE0',
+        welcomeMessage: 'Hello! How can I help you today?',
+        theme: 'light',
+        showAvatar: true
+      });
+    };
+    document.head.appendChild(script);
+  })();
+</script>
+<!-- End AI Support Chat Widget -->
   <script src="script.js"></script>
 </body>
 </html>
